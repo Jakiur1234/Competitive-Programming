@@ -81,8 +81,14 @@ int main()
 	int tc;
 	SCI(tc);
 
-    FOR(i,0,tc,1){
-		
+    	FOR(i,0,tc,1){
+		int a;
+		int count = 0;
+		SCI(a);
+		for(int i = 5; a/i >= 1; i*=5)
+		    count+=a/i;
+
+		cout<<count<<endl;
 	}
 	return 0;
 }
