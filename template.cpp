@@ -72,7 +72,6 @@ void solve(){
 /********** Main()  function **********/
 int main()
 {
-
 	// #ifndef ONLINE_JUDGE
 	// freopen("input.txt","r",stdin);
 	// freopen("output.txt","w",stdout);
@@ -81,7 +80,7 @@ int main()
 	int tc;
 	SCI(tc);
 
-    FOR(i,0,tc,1){
+    	FOR(i,0,tc,1){
 		
 	}
 	return 0;
