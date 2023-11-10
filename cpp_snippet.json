@@ -59,7 +59,7 @@
 			"typedef pair<int, int> PII;",
 			"typedef vector<int> VI;",
 			"typedef vector<string> VS;",
-			"typedef vector<PII> VII;",
+			"typedef vector<PII> VPII;",
 			"typedef vector<VI> VVI;",
 			"typedef map<int,int> MPII;",
 			"typedef set<int> SETI;",
