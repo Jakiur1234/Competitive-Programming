@@ -31,7 +31,6 @@ using namespace std;
 #define MOD 1000000007
 
 
-
 /******** User-defined Function *******/
 void solve(){
 
@@ -48,16 +47,21 @@ int main()
         //freopen("output.txt","w",stdout);
     #endif
 
-    int count = 0;
+    int tc;
+    scanf("%d",&tc);
 
-    for(int i = 1000; i >= 1; i--){
-        cout<<i<<"\t";
-        count++;
-
-        if(count == 5){
-            cout<<endl;
-            count = 0;
+    for(int i = 0; i <tc ; i++){
+        string in;
+        int words = 1;
+        cin.ignore();
+        getline(cin,in);
+        for(int j=0;j < in.length(); j++){
+            if(in[j]==' ' && in[j+1] != ' ' && j != in.length()-1){
+                words++;
+            }
         }
+
+        cout<<words<<endl;
     }
     return 0;
 }

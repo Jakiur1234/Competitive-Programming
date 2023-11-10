@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include <cmath>
 #include <vector>
 #include <algorithm>
 #include <sstream>
@@ -30,11 +31,9 @@ using namespace std;
 #define PI 3.1415926535897932384626433832795
 #define MOD 1000000007
 
-
-
 /******** User-defined Function *******/
-void solve(){
-
+void solve()
+{
 }
 
 /**************************************/
@@ -43,21 +42,32 @@ void solve(){
 int main()
 {
 
-    #ifndef ONLINE_JUDGE
-        //freopen("input.txt","r",stdin);
-        //freopen("output.txt","w",stdout);
-    #endif
+#ifndef ONLINE_JUDGE
+    // freopen("input.txt","r",stdin);
+    // freopen("output.txt","w",stdout);
+#endif
 
-    int count = 0;
+    int tc;
+    scanf("%d", &tc);
 
-    for(int i = 1000; i >= 1; i--){
-        cout<<i<<"\t";
-        count++;
+    for (int i = 0; i < tc; i++)
+    {
+        unsigned long long int num, ans = 1;
+        cin >> num;
 
-        if(count == 5){
-            cout<<endl;
-            count = 0;
+        if (num == 0)
+        {
+            ans = 0;
         }
+        else
+        {
+            for (int j = 1; j <= num; j++)
+            {
+                ans = ans * j;
+            }
+        }
+
+        cout<<ans<<endl;
     }
     return 0;
 }

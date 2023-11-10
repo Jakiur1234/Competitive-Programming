@@ -48,16 +48,23 @@ int main()
         //freopen("output.txt","w",stdout);
     #endif
 
-    int count = 0;
+    int tc;
+    scanf("%d",&tc);
 
-    for(int i = 1000; i >= 1; i--){
-        cout<<i<<"\t";
-        count++;
+    for(int i = 0; i <tc ; i++){
+        string number;
+        cin>>number;
+        int first,last;
 
-        if(count == 5){
-            cout<<endl;
-            count = 0;
-        }
+        stringstream f,l;
+
+        f<<number[0];
+        l<<number[number.length()-1];
+
+        f>>first;
+        l>>last;
+
+        cout<<"Sum = "<<first+last<<endl;
     }
     return 0;
 }

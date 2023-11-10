@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ajdmjakiurrahman/Competitive-Programming/dimmikoj_solution/output/p11'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z5solvev, symObjAddr: 0x0, symBinAddr: 0x100003C14, symSize: 0x4 }
+  - { offsetInCU: 0x4456, offset: 0x4456, size: 0x8, addend: 0x0, symName: __ZNSt3__14endlB7v160006IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_, symObjAddr: 0x138, symBinAddr: 0x100003D4C, symSize: 0x58 }
+  - { offsetInCU: 0x4496, offset: 0x4496, size: 0x8, addend: 0x0, symName: __ZNSt3__19use_facetB7v160006INS_5ctypeIcEEEERKT_RKNS_6localeE, symObjAddr: 0x21C, symBinAddr: 0x100003E30, symSize: 0x2C }
+  - { offsetInCU: 0x6CFD, offset: 0x6CFD, size: 0x8, addend: 0x0, symName: __Z5solvev, symObjAddr: 0x0, symBinAddr: 0x100003C14, symSize: 0x4 }
+  - { offsetInCU: 0x6D16, offset: 0x6D16, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x4, symBinAddr: 0x100003C18, symSize: 0x108 }
+  - { offsetInCU: 0x6E4D, offset: 0x6E4D, size: 0x8, addend: 0x0, symName: __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsB7v160006EPFRS3_S4_E, symObjAddr: 0x10C, symBinAddr: 0x100003D20, symSize: 0x2C }
+  - { offsetInCU: 0x6E7F, offset: 0x6E7F, size: 0x8, addend: 0x0, symName: __ZNKSt3__19basic_iosIcNS_11char_traitsIcEEE5widenB7v160006Ec, symObjAddr: 0x190, symBinAddr: 0x100003DA4, symSize: 0x8C }
+  - { offsetInCU: 0x6EEB, offset: 0x6EEB, size: 0x8, addend: 0x0, symName: __ZNKSt3__15ctypeIcE5widenB7v160006Ec, symObjAddr: 0x248, symBinAddr: 0x100003E5C, symSize: 0x38 }
+...
