@@ -8,7 +8,8 @@ Do not copy and paste. Please understand and read the code before submitting in 
 
 <h1>Adantage : </h1>
     <ol>
-        <li>Here you will find solution in differnt language (like c++,python,c)</li>
+        <li>Here you will find solution in cpp</li>
+        <li>We will try to solve in a easier way</li>
         <li>We will explain the solution using video or image if necessary</li>
     </ol>
 
