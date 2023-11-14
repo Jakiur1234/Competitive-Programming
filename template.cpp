@@ -34,7 +34,7 @@ using namespace std;
 
 /******** User-defined Function *******/
 void solve(){
-
+	
 }
 
 /**************************************/
@@ -52,7 +52,7 @@ int main()
 	scanf("%d",&tc);
 
 	for(int i = 0; i <tc ; i++){
-		
+		solve();
 	}
 	return 0;
 }
