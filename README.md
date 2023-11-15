@@ -13,20 +13,10 @@ Do not copy and paste. Please understand and read the code before submitting in 
         <li>We will explain the solution using video or image if necessary</li>
     </ol>
 
-
-<h1>List of online judge we solved : </h1>
-    <ul>
-        <li>Dimmik OJ</li>
-    </ul>
-
-<h1>List of online judge we will solve : </h1>
-    <ul>
-        <li>DimmikOJ</li>
-        <li>Timus</li>
-        <li>LightOJ</li>
-        <li>Toph</li>
-        <li>Codeforces</li>
-        <li>HackerRank</li>
-        <li>LeetCode</li>
-        <li>Uva</li>
-    </ul>
+<h1>
+All solution added as a Repositories. Links are below :
+</h1>
+    <ol>
+        <li>[Dimik OJ Solution (http://dimikoj.com)](https://github.com/Jakiur1234/Dimik-OJ-Solutioin-dimikoj.com)</li>
+        <li>[Toph.co Solution (http://toph.co)](https://github.com/Jakiur1234/Toph-Solution-Toph.co)</li>
+    </ol>

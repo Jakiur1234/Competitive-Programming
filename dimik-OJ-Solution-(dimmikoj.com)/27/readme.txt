@@ -1,1 +1,0 @@
-You can use this solution for any digits of numbers.
