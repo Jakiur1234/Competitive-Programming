@@ -2,6 +2,8 @@
 	"Print to console": {
 		"prefix": "cpp",
 		"body": [
+			"/* Bismillahir Rahmanir Raheem */",
+			"/* Allah will help him who moves in the way of Allah */",
 			"#include <iostream>",
 			"#include <string>",
 			"#include <cmath>",

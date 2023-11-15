@@ -1,3 +1,5 @@
+/* Bismillahir Rahmanir Raheem */
+/* Allah will help him who moves in the way of Allah */
 #include <iostream>
 #include <string>
 #include <cmath>
@@ -6,6 +8,8 @@
 #include <algorithm>
 #include <sstream>
 #include <queue>
+#include <deque>
+#include <bitset>
 #include <iterator>
 #include <list>
 #include <stack>
