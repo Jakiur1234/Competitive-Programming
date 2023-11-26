@@ -1,3 +1,4 @@
+/* Bismillahir Rahmanir Raheem */
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -68,7 +69,7 @@ mt19937 RNG(chrono::steady_clock::now().time_since_epoch().count());
 // Use mt19937_64 for 64 bit random numbers.
 
 void solve() {
-    // Your implementation goes here
+    
 }
 
 int main() {
