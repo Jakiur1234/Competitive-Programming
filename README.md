@@ -3,7 +3,7 @@
 | Online Judge Name | Category | Online Judge Link | Total Solve | Repository Link |
 | ------------------ | -------- | ----------------- | ----------- |--------------- |
 | Toph.co            | Easy and Medium     | [Toph](https://toph.co) | 61         | [Toph Easy Solutions](https://github.com/Jakiur1234/Toph-Solution-Toph.co/tree/main/EasyProblems) |
-| Dimik Oj          | Easy     | [Dimik OJ](https://dimikoj.com/) | 29         | [Toph Easy Solutions](https://github.com/Jakiur1234/Dimik-OJ-Solutioin-dimikoj.com) |
+| Dimik Oj          | Easy     | [Dimik OJ](https://dimikoj.com/) | 29         | [Dimik OJ Solutions](https://github.com/Jakiur1234/Dimik-OJ-Solutioin-dimikoj.com) |
 | Codeforces         | null   | [Codeforces](https://codeforces.com) | 0        | coming soon  |
 | LeetCode           | null     | [LeetCode](https://leetcode.com) | 0          | coming soon |
 | HackerRank         | null     | [HackerRank](https://hackerrank.com) | 0          | coming soon |
